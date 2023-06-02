@@ -1,6 +1,6 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://www.walidtika.com)
 <h1 align="center">Hi 👋, I'm Walid Tika</h1>
-### *<div align="center">A Software Engineer</div>* 
+<h3 align="center">A Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1803678/screenshots/3652824/media/d3b02b8c47ea791aebf0a53631428f94.gif">
 
 
